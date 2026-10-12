@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33349848/README.md)
 # EggXP
 
 **A native Egg, Inc. account and mission-history viewer that runs on Windows XP SP3 and everything after it.**
@@ -7,7 +6,6 @@ EggXP is a single ~360 KB Win32 executable written in C. You type in your Egg, I
 
 It needs no installer, no .NET or runtime, and no DLLs beyond the ones Windows ships with. It doesn't use the OS certificate store either, so it works on a stock, unpatched XP SP3 box.
 
-![Missions tab](docs/missions.png)
 
 <table>
 <tr>
